@@ -5,5 +5,7 @@ import (
 )
 
 func main() {
-	database.Migrate()
+	// database.Migrate()
+	database.Crudapi()
+
 }
